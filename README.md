@@ -1,2 +1,2 @@
-# New-The-End-Game
-e
+# The-End
+Dinosaur game
